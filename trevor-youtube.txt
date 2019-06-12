@@ -21,3 +21,7 @@ www.youtube.com/yts/cssbin/www-main-desktop-home-page-skeleton-*.css
 ! block mobile home screen stuff
 m.youtube.com##ytm-single-column-browse-results-renderer
 m.youtube.com##ytm-pivot-bar-renderer
+
+! block recommendations and comments on mobile
+m.youtube.com##ytm-item-section-renderer.scwnr-content:nth-of-type(2)
+m.youtube.com##ytm-comment-section-renderer.scwnr-content
