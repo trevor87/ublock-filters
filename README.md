@@ -15,6 +15,7 @@ How to use:
 7. Press "Apply changes", which should have appeared in the top right corner.
 8. It should work now if you reload youtube.
 9. For maximal effectivity also disable autoplay on youtube. For this you have to temporarily turn off ublock origin, disable autoplay and turn it on again.
+10. If this blocks too much for you, feel free to adjust the filter as needed. This can be done by adding the rules from my textfiles manually in the tab "My filters"
 
 Enjoy!
 
