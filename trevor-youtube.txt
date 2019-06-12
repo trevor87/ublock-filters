@@ -12,3 +12,8 @@ www.youtube.com###ticker > .ytd-masthead.style-scope
 ! do not forget to disable autoplay at the end of the video. To do that: turn off ublock for a sec and then disable autoplay -> then turn it on again
 www.youtube.com##.ytp-ce-element
 www.youtube.com##.ytp-show-tiles.videowall-endscreen.ytp-player-content.html5-endscreen
+
+! block home screen stuff
+www.youtube.com##ytd-browse.ytd-page-manager.style-scope
+  ! Block the placeholders of the home screen
+www.youtube.com/yts/cssbin/www-main-desktop-home-page-skeleton-*.css
