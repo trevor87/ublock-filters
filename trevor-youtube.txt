@@ -1,3 +1,7 @@
+! Title: Distraction free youtube
+! Version: 12062019
+! Expires: 3 days
+
 ! Distraction free youtube
 !  block recommendations
 www.youtube.com###secondary
