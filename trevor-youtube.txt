@@ -1,0 +1,10 @@
+! Distraction free youtube
+!  block recommendations
+www.youtube.com###secondary
+www.youtube.com###sections
+www.youtube.com###ticker > .ytd-masthead.style-scope
+
+!  block recommendations at the end of the video
+! do not forget to disable autoplay at the end of the video. To do that: turn off ublock for a sec and then disable autoplay -> then turn it on again
+www.youtube.com##.ytp-ce-element
+www.youtube.com##.ytp-show-tiles.videowall-endscreen.ytp-player-content.html5-endscreen
