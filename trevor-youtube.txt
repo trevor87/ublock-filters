@@ -17,8 +17,7 @@ www.youtube.com##.ytp-show-tiles.videowall-endscreen.ytp-player-content.html5-en
 www.youtube.com##ytd-browse.ytd-page-manager[page-subtype="home"]
 
 ! block mobile home screen stuff
-m.youtube.com##ytm-single-column-browse-results-renderer
-m.youtube.com##ytm-pivot-bar-renderer
+m.youtube.com##div[tab-identifier="FEwhat_to_watch"]
 
 ! block recommendations and comments on mobile
 m.youtube.com##ytm-item-section-renderer.scwnr-content:nth-of-type(2)
