@@ -14,9 +14,7 @@ www.youtube.com##.ytp-ce-element
 www.youtube.com##.ytp-show-tiles.videowall-endscreen.ytp-player-content.html5-endscreen
 
 ! block home screen stuff
-www.youtube.com##ytd-browse.ytd-page-manager.style-scope
-  ! Block the placeholders of the home screen
-www.youtube.com/yts/cssbin/www-main-desktop-home-page-skeleton-*.css
+www.youtube.com##ytd-browse.ytd-page-manager[page-subtype="home"]
 
 ! block mobile home screen stuff
 m.youtube.com##ytm-single-column-browse-results-renderer
